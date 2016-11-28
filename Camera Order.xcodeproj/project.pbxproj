@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		390D69061D40000A0003B476 /* ButtonTap.wav in Resources */ = {isa = PBXBuildFile; fileRef = 390D69051D40000A0003B476 /* ButtonTap.wav */; };
+		390D69081D4000230003B476 /* SecondBeep.wav in Resources */ = {isa = PBXBuildFile; fileRef = 390D69071D4000230003B476 /* SecondBeep.wav */; };
+		393C6D631D395AB900E429AC /* abstract-blue-cyan3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 393C6D621D395AB900E429AC /* abstract-blue-cyan3.jpg */; };
+		393C6D651D396AD600E429AC /* Equipment List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C6D641D396AD600E429AC /* Equipment List.swift */; };
+		393C6D671D396B7900E429AC /* PrimesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C6D661D396B7900E429AC /* PrimesViewController.swift */; };
+		393C6D691D39939400E429AC /* AksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C6D681D39939400E429AC /* AksViewController.swift */; };
+		393C6D6B1D3993A700E429AC /* SupportViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C6D6A1D3993A700E429AC /* SupportViewController.swift */; };
+		393C6D6D1D3993BC00E429AC /* FiltersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C6D6C1D3993BC00E429AC /* FiltersViewController.swift */; };
+		393C6D6F1D3993CA00E429AC /* NamesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C6D6E1D3993CA00E429AC /* NamesViewController.swift */; };
+		398838EB1D411EB10091B83D /* picker_01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 398838E81D411EB10091B83D /* picker_01.mp3 */; };
+		398838EC1D411EB10091B83D /* picker_02.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 398838E91D411EB10091B83D /* picker_02.mp3 */; };
+		398838ED1D411EB10091B83D /* picker_03.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 398838EA1D411EB10091B83D /* picker_03.mp3 */; };
 		39BD31751D354E3F006AD78F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39BD31741D354E3F006AD78F /* AppDelegate.swift */; };
 		39BD31771D354E3F006AD78F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39BD31761D354E3F006AD78F /* ViewController.swift */; };
 		39BD317A1D354E3F006AD78F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39BD31781D354E3F006AD78F /* Main.storyboard */; };
@@ -14,6 +26,26 @@
 		39BD317F1D354E3F006AD78F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39BD317D1D354E3F006AD78F /* LaunchScreen.storyboard */; };
 		39BD318A1D354E3F006AD78F /* Camera_OrderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39BD31891D354E3F006AD78F /* Camera_OrderTests.swift */; };
 		39BD31951D354E3F006AD78F /* Camera_OrderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39BD31941D354E3F006AD78F /* Camera_OrderUITests.swift */; };
+		39C958C61D43D92F002D1CA4 /* 1000hz.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958B21D43D92F002D1CA4 /* 1000hz.wav */; };
+		39C958C71D43D92F002D1CA4 /* alienxxx__short.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958B31D43D92F002D1CA4 /* alienxxx__short.wav */; };
+		39C958C81D43D92F002D1CA4 /* Celular-click.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958B41D43D92F002D1CA4 /* Celular-click.wav */; };
+		39C958C91D43D92F002D1CA4 /* click_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 39C958B51D43D92F002D1CA4 /* click_1.mp3 */; };
+		39C958CA1D43D92F002D1CA4 /* Click_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958B61D43D92F002D1CA4 /* Click_2.wav */; };
+		39C958CB1D43D92F002D1CA4 /* Click_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958B71D43D92F002D1CA4 /* Click_3.wav */; };
+		39C958CC1D43D92F002D1CA4 /* Computer-beep.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958B81D43D92F002D1CA4 /* Computer-beep.wav */; };
+		39C958CD1D43D92F002D1CA4 /* Computer-boop.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958B91D43D92F002D1CA4 /* Computer-boop.wav */; };
+		39C958CE1D43D92F002D1CA4 /* davidsraba__bleep.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958BA1D43D92F002D1CA4 /* davidsraba__bleep.wav */; };
+		39C958CF1D43D92F002D1CA4 /* Etrenitys_interface_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958BB1D43D92F002D1CA4 /* Etrenitys_interface_1.wav */; };
+		39C958D01D43D92F002D1CA4 /* Etrenitys_interface_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958BC1D43D92F002D1CA4 /* Etrenitys_interface_2.wav */; };
+		39C958D11D43D92F002D1CA4 /* Etrenitys_interface_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958BD1D43D92F002D1CA4 /* Etrenitys_interface_3.wav */; };
+		39C958D21D43D92F002D1CA4 /* Incorrect-function.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958BE1D43D92F002D1CA4 /* Incorrect-function.wav */; };
+		39C958D31D43D92F002D1CA4 /* Korgms2000.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958BF1D43D92F002D1CA4 /* Korgms2000.wav */; };
+		39C958D41D43D92F002D1CA4 /* Lazymanphone-shortbeep.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958C01D43D92F002D1CA4 /* Lazymanphone-shortbeep.wav */; };
+		39C958D51D43D92F002D1CA4 /* PLUS_pan__tone.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958C11D43D92F002D1CA4 /* PLUS_pan__tone.wav */; };
+		39C958D61D43D92F002D1CA4 /* Roger_beep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 39C958C21D43D92F002D1CA4 /* Roger_beep.mp3 */; };
+		39C958D71D43D92F002D1CA4 /* spring.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958C31D43D92F002D1CA4 /* spring.wav */; };
+		39C958D81D43D92F002D1CA4 /* unggle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 39C958C41D43D92F002D1CA4 /* unggle.mp3 */; };
+		39C958D91D43D92F002D1CA4 /* Video.wav in Resources */ = {isa = PBXBuildFile; fileRef = 39C958C51D43D92F002D1CA4 /* Video.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +66,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		390D69051D40000A0003B476 /* ButtonTap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ButtonTap.wav; sourceTree = "<group>"; };
+		390D69071D4000230003B476 /* SecondBeep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SecondBeep.wav; sourceTree = "<group>"; };
+		393C6D621D395AB900E429AC /* abstract-blue-cyan3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "abstract-blue-cyan3.jpg"; sourceTree = "<group>"; };
+		393C6D641D396AD600E429AC /* Equipment List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Equipment List.swift"; sourceTree = "<group>"; };
+		393C6D661D396B7900E429AC /* PrimesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrimesViewController.swift; sourceTree = "<group>"; };
+		393C6D681D39939400E429AC /* AksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AksViewController.swift; sourceTree = "<group>"; };
+		393C6D6A1D3993A700E429AC /* SupportViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SupportViewController.swift; sourceTree = "<group>"; };
+		393C6D6C1D3993BC00E429AC /* FiltersViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FiltersViewController.swift; sourceTree = "<group>"; };
+		393C6D6E1D3993CA00E429AC /* NamesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NamesViewController.swift; sourceTree = "<group>"; };
+		398838E81D411EB10091B83D /* picker_01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = picker_01.mp3; sourceTree = "<group>"; };
+		398838E91D411EB10091B83D /* picker_02.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = picker_02.mp3; sourceTree = "<group>"; };
+		398838EA1D411EB10091B83D /* picker_03.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = picker_03.mp3; sourceTree = "<group>"; };
 		39BD31711D354E3F006AD78F /* Camera Order.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Camera Order.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		39BD31741D354E3F006AD78F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		39BD31761D354E3F006AD78F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +91,26 @@
 		39BD31901D354E3F006AD78F /* Camera OrderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Camera OrderUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		39BD31941D354E3F006AD78F /* Camera_OrderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera_OrderUITests.swift; sourceTree = "<group>"; };
 		39BD31961D354E3F006AD78F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39C958B21D43D92F002D1CA4 /* 1000hz.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 1000hz.wav; sourceTree = "<group>"; };
+		39C958B31D43D92F002D1CA4 /* alienxxx__short.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = alienxxx__short.wav; sourceTree = "<group>"; };
+		39C958B41D43D92F002D1CA4 /* Celular-click.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Celular-click.wav"; sourceTree = "<group>"; };
+		39C958B51D43D92F002D1CA4 /* click_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = click_1.mp3; sourceTree = "<group>"; };
+		39C958B61D43D92F002D1CA4 /* Click_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Click_2.wav; sourceTree = "<group>"; };
+		39C958B71D43D92F002D1CA4 /* Click_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Click_3.wav; sourceTree = "<group>"; };
+		39C958B81D43D92F002D1CA4 /* Computer-beep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Computer-beep.wav"; sourceTree = "<group>"; };
+		39C958B91D43D92F002D1CA4 /* Computer-boop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Computer-boop.wav"; sourceTree = "<group>"; };
+		39C958BA1D43D92F002D1CA4 /* davidsraba__bleep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = davidsraba__bleep.wav; sourceTree = "<group>"; };
+		39C958BB1D43D92F002D1CA4 /* Etrenitys_interface_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Etrenitys_interface_1.wav; sourceTree = "<group>"; };
+		39C958BC1D43D92F002D1CA4 /* Etrenitys_interface_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Etrenitys_interface_2.wav; sourceTree = "<group>"; };
+		39C958BD1D43D92F002D1CA4 /* Etrenitys_interface_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Etrenitys_interface_3.wav; sourceTree = "<group>"; };
+		39C958BE1D43D92F002D1CA4 /* Incorrect-function.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Incorrect-function.wav"; sourceTree = "<group>"; };
+		39C958BF1D43D92F002D1CA4 /* Korgms2000.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Korgms2000.wav; sourceTree = "<group>"; };
+		39C958C01D43D92F002D1CA4 /* Lazymanphone-shortbeep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Lazymanphone-shortbeep.wav"; sourceTree = "<group>"; };
+		39C958C11D43D92F002D1CA4 /* PLUS_pan__tone.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = PLUS_pan__tone.wav; sourceTree = "<group>"; };
+		39C958C21D43D92F002D1CA4 /* Roger_beep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Roger_beep.mp3; sourceTree = "<group>"; };
+		39C958C31D43D92F002D1CA4 /* spring.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = spring.wav; sourceTree = "<group>"; };
+		39C958C41D43D92F002D1CA4 /* unggle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = unggle.mp3; sourceTree = "<group>"; };
+		39C958C51D43D92F002D1CA4 /* Video.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Video.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +161,17 @@
 		39BD31731D354E3F006AD78F /* Camera Order */ = {
 			isa = PBXGroup;
 			children = (
-				39BD31741D354E3F006AD78F /* AppDelegate.swift */,
-				39BD31761D354E3F006AD78F /* ViewController.swift */,
 				39BD31781D354E3F006AD78F /* Main.storyboard */,
-				39BD317B1D354E3F006AD78F /* Assets.xcassets */,
 				39BD317D1D354E3F006AD78F /* LaunchScreen.storyboard */,
-				39BD31801D354E3F006AD78F /* Info.plist */,
+				39BD31761D354E3F006AD78F /* ViewController.swift */,
+				393C6D6E1D3993CA00E429AC /* NamesViewController.swift */,
+				393C6D661D396B7900E429AC /* PrimesViewController.swift */,
+				393C6D6C1D3993BC00E429AC /* FiltersViewController.swift */,
+				393C6D681D39939400E429AC /* AksViewController.swift */,
+				393C6D6A1D3993A700E429AC /* SupportViewController.swift */,
+				393C6D641D396AD600E429AC /* Equipment List.swift */,
+				39BD31A21D354EC7006AD78F /* Extra Files */,
+				39BD317B1D354E3F006AD78F /* Assets.xcassets */,
 			);
 			path = "Camera Order";
 			sourceTree = "<group>";
@@ -123,6 +192,41 @@
 				39BD31961D354E3F006AD78F /* Info.plist */,
 			);
 			path = "Camera OrderUITests";
+			sourceTree = "<group>";
+		};
+		39BD31A21D354EC7006AD78F /* Extra Files */ = {
+			isa = PBXGroup;
+			children = (
+				398838E81D411EB10091B83D /* picker_01.mp3 */,
+				398838E91D411EB10091B83D /* picker_02.mp3 */,
+				39C958B21D43D92F002D1CA4 /* 1000hz.wav */,
+				39C958B31D43D92F002D1CA4 /* alienxxx__short.wav */,
+				39C958B41D43D92F002D1CA4 /* Celular-click.wav */,
+				39C958B51D43D92F002D1CA4 /* click_1.mp3 */,
+				39C958B61D43D92F002D1CA4 /* Click_2.wav */,
+				39C958B71D43D92F002D1CA4 /* Click_3.wav */,
+				39C958B81D43D92F002D1CA4 /* Computer-beep.wav */,
+				39C958B91D43D92F002D1CA4 /* Computer-boop.wav */,
+				39C958BA1D43D92F002D1CA4 /* davidsraba__bleep.wav */,
+				39C958BB1D43D92F002D1CA4 /* Etrenitys_interface_1.wav */,
+				39C958BC1D43D92F002D1CA4 /* Etrenitys_interface_2.wav */,
+				39C958BD1D43D92F002D1CA4 /* Etrenitys_interface_3.wav */,
+				39C958BE1D43D92F002D1CA4 /* Incorrect-function.wav */,
+				39C958BF1D43D92F002D1CA4 /* Korgms2000.wav */,
+				39C958C01D43D92F002D1CA4 /* Lazymanphone-shortbeep.wav */,
+				39C958C11D43D92F002D1CA4 /* PLUS_pan__tone.wav */,
+				39C958C21D43D92F002D1CA4 /* Roger_beep.mp3 */,
+				39C958C31D43D92F002D1CA4 /* spring.wav */,
+				39C958C41D43D92F002D1CA4 /* unggle.mp3 */,
+				39C958C51D43D92F002D1CA4 /* Video.wav */,
+				398838EA1D411EB10091B83D /* picker_03.mp3 */,
+				390D69051D40000A0003B476 /* ButtonTap.wav */,
+				390D69071D4000230003B476 /* SecondBeep.wav */,
+				393C6D621D395AB900E429AC /* abstract-blue-cyan3.jpg */,
+				39BD31741D354E3F006AD78F /* AppDelegate.swift */,
+				39BD31801D354E3F006AD78F /* Info.plist */,
+			);
+			name = "Extra Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -188,18 +292,22 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = "Warren Hansen";
 				TargetAttributes = {
 					39BD31701D354E3F006AD78F = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 22U4CL887R;
+						LastSwiftMigration = 0810;
 					};
 					39BD31841D354E3F006AD78F = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0810;
 						TestTargetID = 39BD31701D354E3F006AD78F;
 					};
 					39BD318F1D354E3F006AD78F = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0810;
 						TestTargetID = 39BD31701D354E3F006AD78F;
 					};
 				};
@@ -229,8 +337,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39C958D31D43D92F002D1CA4 /* Korgms2000.wav in Resources */,
+				39C958C81D43D92F002D1CA4 /* Celular-click.wav in Resources */,
+				390D69081D4000230003B476 /* SecondBeep.wav in Resources */,
 				39BD317F1D354E3F006AD78F /* LaunchScreen.storyboard in Resources */,
+				39C958D71D43D92F002D1CA4 /* spring.wav in Resources */,
+				39C958C71D43D92F002D1CA4 /* alienxxx__short.wav in Resources */,
+				398838EC1D411EB10091B83D /* picker_02.mp3 in Resources */,
+				39C958D51D43D92F002D1CA4 /* PLUS_pan__tone.wav in Resources */,
+				39C958D01D43D92F002D1CA4 /* Etrenitys_interface_2.wav in Resources */,
+				39C958CC1D43D92F002D1CA4 /* Computer-beep.wav in Resources */,
+				39C958CE1D43D92F002D1CA4 /* davidsraba__bleep.wav in Resources */,
+				39C958C61D43D92F002D1CA4 /* 1000hz.wav in Resources */,
+				398838EB1D411EB10091B83D /* picker_01.mp3 in Resources */,
+				39C958C91D43D92F002D1CA4 /* click_1.mp3 in Resources */,
+				39C958CD1D43D92F002D1CA4 /* Computer-boop.wav in Resources */,
+				39C958D41D43D92F002D1CA4 /* Lazymanphone-shortbeep.wav in Resources */,
+				39C958D21D43D92F002D1CA4 /* Incorrect-function.wav in Resources */,
+				39C958D91D43D92F002D1CA4 /* Video.wav in Resources */,
+				39C958D61D43D92F002D1CA4 /* Roger_beep.mp3 in Resources */,
+				39C958CB1D43D92F002D1CA4 /* Click_3.wav in Resources */,
+				398838ED1D411EB10091B83D /* picker_03.mp3 in Resources */,
 				39BD317C1D354E3F006AD78F /* Assets.xcassets in Resources */,
+				39C958D11D43D92F002D1CA4 /* Etrenitys_interface_3.wav in Resources */,
+				39C958D81D43D92F002D1CA4 /* unggle.mp3 in Resources */,
+				393C6D631D395AB900E429AC /* abstract-blue-cyan3.jpg in Resources */,
+				39C958CF1D43D92F002D1CA4 /* Etrenitys_interface_1.wav in Resources */,
+				390D69061D40000A0003B476 /* ButtonTap.wav in Resources */,
+				39C958CA1D43D92F002D1CA4 /* Click_2.wav in Resources */,
 				39BD317A1D354E3F006AD78F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -256,8 +390,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				393C6D671D396B7900E429AC /* PrimesViewController.swift in Sources */,
 				39BD31771D354E3F006AD78F /* ViewController.swift in Sources */,
+				393C6D6D1D3993BC00E429AC /* FiltersViewController.swift in Sources */,
+				393C6D6B1D3993A700E429AC /* SupportViewController.swift in Sources */,
+				393C6D651D396AD600E429AC /* Equipment List.swift in Sources */,
 				39BD31751D354E3F006AD78F /* AppDelegate.swift in Sources */,
+				393C6D691D39939400E429AC /* AksViewController.swift in Sources */,
+				393C6D6F1D3993CA00E429AC /* NamesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -326,8 +466,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -372,8 +514,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -392,6 +536,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -401,10 +546,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Camera Order/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "TradeStrat.net.Camera-Order";
+				PRODUCT_BUNDLE_IDENTIFIER = net.TradeStrat.CameraOrder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -412,10 +559,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				INFOPLIST_FILE = "Camera Order/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "TradeStrat.net.Camera-Order";
+				PRODUCT_BUNDLE_IDENTIFIER = net.TradeStrat.CameraOrder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -427,6 +576,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "TradeStrat.net.Camera-OrderTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Camera Order.app/Camera Order";
 			};
 			name = Debug;
@@ -439,6 +589,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "TradeStrat.net.Camera-OrderTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Camera Order.app/Camera Order";
 			};
 			name = Release;
@@ -450,6 +601,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "TradeStrat.net.Camera-OrderUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 				TEST_TARGET_NAME = "Camera Order";
 			};
 			name = Debug;
@@ -461,6 +613,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "TradeStrat.net.Camera-OrderUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 				TEST_TARGET_NAME = "Camera Order";
 			};
 			name = Release;
@@ -484,6 +637,7 @@
 				39BD319B1D354E3F006AD78F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		39BD319C1D354E3F006AD78F /* Build configuration list for PBXNativeTarget "Camera OrderTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +646,7 @@
 				39BD319E1D354E3F006AD78F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		39BD319F1D354E3F006AD78F /* Build configuration list for PBXNativeTarget "Camera OrderUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +655,7 @@
 				39BD31A11D354E3F006AD78F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
